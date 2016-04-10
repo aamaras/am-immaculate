@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+Ellen is the best
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac augue libero.
 Fusce ac tempor dolor. Ut est dui, gravida a consequat aliquet, fermentum
