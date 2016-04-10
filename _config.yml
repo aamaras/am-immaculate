@@ -1,0 +1,14 @@
+title: Wedding
+description: >
+  This is the website you've been looking for. 
+baseurl: ""
+url: "https://aamaras.github.io/"
+paginate:	2 # The number of posts to show per page on your homepage
+name: "Aaron Maras & Ellen Broad"
+email: "aaronmaras@gmail.com"
+markdown: kramdown
+permalink: none
+kramdown:
+  parse_block_html: true
+gems:
+  - jekyll-paginate
