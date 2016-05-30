@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
+title: 📯 Contact us
 permalink: /contact/
 ---
 
-File issues at [https://github.com/siawyoung/immaculate/issues](https://github.com/siawyoung/immaculate/issues)!
+Have you got questions about the wedding that aren't answered by our comprehensive wedding website? You know how to reach us.

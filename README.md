@@ -7,3 +7,8 @@ Files to edit:
 * contact.md
 * index.md
 * any other xyz.md that is needed
+
+
+To run:
+
+`bundle exec jekyll serve --watch`
