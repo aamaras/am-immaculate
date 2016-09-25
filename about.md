@@ -4,7 +4,7 @@ title: 👫 About
 permalink: /about/
 ---
 
-Ellen and Aaron are getting married!
+Ellen and Aaron are getting married very soon!
 
 ![photo](/images/image3.jpg)
 ![photo](/images/image2.jpg)
